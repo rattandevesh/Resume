@@ -1,4 +1,4 @@
-# 💼 Devesh – Senior Associate Consultant - DevOps Engineer
+# 💼 Devesh – Senior Associate Consultant | DevOps Engineer
 
 🔗 [Resume](./Devesh_Resume.pdf)
 
